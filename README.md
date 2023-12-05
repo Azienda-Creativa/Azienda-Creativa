@@ -2,9 +2,10 @@
 CEO turned aspiring Full Stack Web Developer, blending a business mindset with a passion for crafting sustainable and user-centric digital experiences.
 
 👀 I’m interested in
-Web Development
-Design
-Sustainability
+ - Web Development
+ - Design
+ - Sustainability
+
 🌱 Technologies I work with
 JavaScript, HTML, CSS, React, Next.js, MongoDB, Node.js, and more!
 
@@ -18,9 +19,7 @@ After a successful stint as a CEO, I'm embarking on a new journey in Web Develop
 I’m actively seeking opportunities to collaborate on exciting projects that make a positive impact. If you're looking for a passionate developer with a unique background, let's connect!
 
 📫 How to reach me
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/alessandro-iadarola
-
-).
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/alessandro-iadarola).
 
 <!---
 Azienda-Creativa/Azienda-Creativa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
