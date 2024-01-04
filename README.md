@@ -5,6 +5,7 @@ CEO turned aspiring Full Stack Web Developer, blending a business mindset with a
  - Web Development
  - Design
  - Sustainability
+ - Health-care 
 
 🌱 Technologies I work with
 JavaScript, HTML, CSS, React, Next.js, MongoDB, Node.js, and more!
