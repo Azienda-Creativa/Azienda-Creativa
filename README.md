@@ -1,12 +1,9 @@
-👋 Hi, I’m @Azienda-Creativa, I am a Full Stack Web Developer and Industrial Product Designer
+👋 Hi, I’m Alessandro,<br>
+I am a Full Stack Web Developer(MERN) | Industrial Product Designer | Operations Manager
 
-🌱 Technologies I work with
-JavaScript, HTML, CSS, React, Next.js, MongoDB, Node.js.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,bootstrap,github,vscode,vite,vercel)](https://skillicons.dev)
 
 🚀 Education
-Graduated from the Ironhack Full-Stack Web Development Bootcamp.
+Ironhack - Full-Stack Web Developer.
 
-💞 Open to Collaboration
-I’m actively seeking opportunities to collaborate on exciting projects that make a positive impact. If you're looking for a passionate developer with a unique background, let's connect!
-
-
+ OPEN TO WORK! Based in The Netherlands
